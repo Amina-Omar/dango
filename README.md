@@ -1,0 +1,2 @@
+# dango
+python Django project 
